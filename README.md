@@ -8,8 +8,6 @@ The 2WAY design is, for the most-part, based on [Identifi](https://github.com/id
 Feel free to post your questions, comments, and/or suggestions as an issue.
 
 
-Architectural Overview of 2WAY:
 ![Architectural Overview](https://github.com/2WAY/Design/blob/master/img/whitepaper/6_2wayd_architecture.jpg)
 
-2WAY Legend:
 ![Legend](https://github.com/2WAY/Design/blob/master/img/whitepaper/7_2wayd_legend.jpg)
